@@ -97,7 +97,7 @@ namespace TileSample
                     return;
             }
             args.Player.SetData(DATA_KEY, type);
-            args.Player.SendInfoMessage($"Edit some block to {type} items");
+            args.Player.SendInfoMessage($"Hit some tile to {type} items");
         }
 
         public static TileItemInfo GetTileItemInfo(ITile tile)
