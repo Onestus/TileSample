@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileSample", "TileSample\TileSample.csproj", "{9E404BE3-033C-466A-8B80-18C62D49ED94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E404BE3-033C-466A-8B80-18C62D49ED94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E404BE3-033C-466A-8B80-18C62D49ED94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E404BE3-033C-466A-8B80-18C62D49ED94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E404BE3-033C-466A-8B80-18C62D49ED94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851C04F9-D645-4BF6-890C-A0DB2A3F47E3}
+	EndGlobalSection
+EndGlobal
