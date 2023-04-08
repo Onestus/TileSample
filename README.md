@@ -11,6 +11,9 @@
 
 `tilesample.admin` - Required to debug command & plugin.
 
+### Example
+![Example](https://i.ibb.co/GRTcdmD/95bz-Nfg-Epu-U.jpg)
+
 ### Options
 :white_check_mark: Get info about one tile
 - [ ] Get info about area
